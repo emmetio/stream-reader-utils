@@ -1,6 +1,6 @@
 {
   "name": "@emmetio/stream-reader-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/stream-reader-utils.cjs.js",
   "module": "dist/stream-reader-utils.es.js",
